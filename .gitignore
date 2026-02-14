@@ -1,0 +1,10 @@
+# Archivos de sistema de Windows
+Thumbs.db
+desktop.ini
+
+# Scripts de automatizacion (opcional si no quieres compartirlos)
+# update_data.ps1
+# REFRESCAR_CATALOGO.bat
+
+# Logs
+*.log
