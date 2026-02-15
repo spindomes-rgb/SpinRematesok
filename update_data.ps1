@@ -2,6 +2,8 @@ $configHeader = @"
 const CONFIG = {
     whatsappNumber: "56982622961",
     storeName: "SpinRemates",
+    brandName: "Spingraphic",
+    address: "San Diego 1618, Santiago, Chile",
     currency: "$",
 };
 
