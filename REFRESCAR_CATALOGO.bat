@@ -1,5 +1,5 @@
 @echo off
-echo Actualizando catalogo de SpinRemates...
+echo Actualizando catalogo de LaserSpin Remates...
 powershell -ExecutionPolicy Bypass -File update_data.ps1
 echo.
 echo ¡Catalogo actualizado con exito!

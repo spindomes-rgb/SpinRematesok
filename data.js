@@ -1,8 +1,8 @@
 ﻿const CONFIG = {
     whatsappNumber: "56982622961",
-    storeName: "SpinRemates",
-    brandName: "Spingraphic",
-    address: "San Diego 1618, Santiago, Chile",
+    storeName: "LaserSpin Remates",
+    brandName: "LaserSpin",
+    address: "Santiago, Chile",
     currency: "$",
 };
 
